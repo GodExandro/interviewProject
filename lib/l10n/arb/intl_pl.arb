@@ -1,0 +1,9 @@
+{
+    "failedToLoadContentMessage": "Nie udało się załadować",
+    "refreshButtonText": "Odśwież",
+    "failedToOpenWebView": "Nie udało się otworzyć przeglądarki",
+    "returnButtonText": "Cofnij",
+    "browserAppbarTitle": "Przeglądarka",
+    "homePageAppbarTitle": "Strona główna",
+    "lastModified": "Ostatnia modyfikacja"
+}

@@ -1,0 +1,9 @@
+{
+    "failedToLoadContentMessage": "Failed to load content",
+    "refreshButtonText": "Refresh",
+    "failedToOpenWebView": "Failed to open Web",
+    "returnButtonText": "Return",
+    "browserAppbarTitle": "Browser",
+    "homePageAppbarTitle": "Home page",
+    "lastModified": "Last modified"
+}
